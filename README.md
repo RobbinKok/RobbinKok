@@ -1,5 +1,11 @@
-![image](https://user-images.githubusercontent.com/28903703/121503884-c54e4e00-c9e1-11eb-8784-b8491f8aca1f.png)
+![image](https://user-images.githubusercontent.com/28903703/121504654-76ed7f00-c9e2-11eb-96b1-9599e0395c31.png)
+## I'm a software engineering student at the [Hanze University of Applied Sciences](https://www.hanze.nl/eng) in Groningen
 
+### Here are some of my stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbinKok&show_icons=true&theme=radical)
+
+### And here are some of my most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbinKok&hide=cmake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RobbinKok/RobbinKok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
