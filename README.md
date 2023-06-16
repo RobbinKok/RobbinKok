@@ -2,7 +2,7 @@
 ## I'm a software engineering student at the [Hanze University of Applied Sciences](https://www.hanze.nl/eng) in Groningen
 
 ### Here are some of my stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbinKok&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbinKok&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
 
 ### And here are some of my most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbinKok&hide=cmake&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
