@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/28903703/121504654-76ed7f00-c9e2-11eb-96b1-9599e0395c31.png)
-## I'm a software engineering student at the [Hanze University of Applied Sciences](https://www.hanze.nl/eng) in Groningen
+## I'm a software engineering in Groningen
 
 ### Here are some of my stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbinKok&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
